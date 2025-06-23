@@ -1,5 +1,5 @@
 # Fastorm
-fast-sqlite v2.366.1
+fast-sqlite v2.366.1.aplha
 
 # Manual de Uso del ORM para SQLite3
 
